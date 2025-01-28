@@ -1,0 +1,13 @@
+#introbox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#introbox>h1{
+  text-align: center;
+}
+#examimg{
+  padding: 0px
+}
